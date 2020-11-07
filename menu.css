@@ -1,0 +1,16 @@
+.menu{
+    min-height: 40px;
+    background-color: darkgray ;
+    display: flex;
+    justify-content: space-between;
+}
+.menu1{
+    padding-left: 0;
+    margin: auto 16px;
+    display: flex;
+}
+.menu2{
+    margin: 0 8px;
+    list-style: none;
+    
+}
